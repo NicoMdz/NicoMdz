@@ -18,7 +18,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-37BCF8?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-569DC8?style=flat-square&logo=webpack&logoColor=white" />
+  <img alt="NextJS" src="https://img.shields.io/badge/NextJs-_?style=flat-square&logo=nextdotjs&logoColor=white&logoSize=auto&labelColor=black&color=black&cacheSeconds=3600" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-9763FE?style=flat-square&logo=vite&logoColor=white" />
 </p>
 
